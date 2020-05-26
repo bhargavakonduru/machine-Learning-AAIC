@@ -1,1 +1,1 @@
-# machine-Learning-AAIC
+# machine-Learning & Artificial Intelligence
